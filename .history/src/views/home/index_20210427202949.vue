@@ -43,7 +43,6 @@
 
 <style lang="scss" scoped>
     .home{
-        max-width: 1920px;
         margin: 0 auto;
         position: relative;
         .banner_part{

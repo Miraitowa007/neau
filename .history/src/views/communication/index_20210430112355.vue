@@ -48,7 +48,6 @@ export default {
     }
     .container{
         min-height: 500px;
-        margin-top: 20px;
         border: 1px solid #32CD32;
         box-shadow: 0px 0px 5px rgb(133, 196, 143);
     }

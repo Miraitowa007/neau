@@ -7,9 +7,6 @@
                 我要发布
             </button>
         </header>
-        <div class="container">
-
-        </div>
     </div>
 </template>
 
@@ -29,11 +26,10 @@ export default {
         margin: 0 auto;
         display: flex;
         border: 1px solid #32CD32;
-        box-shadow: 0px 0px 5px rgb(133, 196, 143);
+        box-shadow: 0px 0px 8px rgb(97, 139, 104);
         position: relative;
         .share{
             margin-left: 20px;
-            font-weight: 600;
         }
         .publish{
             width: 100px;
@@ -45,12 +41,6 @@ export default {
             background: #32CD32;
             color: #fff;
         }
-    }
-    .container{
-        min-height: 500px;
-        margin-top: 20px;
-        border: 1px solid #32CD32;
-        box-shadow: 0px 0px 5px rgb(133, 196, 143);
     }
 }
 </style>

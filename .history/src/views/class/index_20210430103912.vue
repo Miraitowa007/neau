@@ -54,9 +54,10 @@ export default {
             justify-content: flex-start;
             .list{
                 width: 268px;
-                height: 320px;
+                height: 300px;
                 padding: 8px;
                 margin-right: 25px;
+                padding-top: 20px;
                 box-sizing: border-box;
                 cursor: pointer;
                 &:hover{
@@ -73,7 +74,6 @@ export default {
                 }
                 .other{
                     width: 234px;
-                    height: 56px;
                     padding: 10px 8px;
                     background:#F5F5F5;
                     .title{

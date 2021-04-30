@@ -73,7 +73,7 @@ export default {
                 }
                 .other{
                     width: 234px;
-                    height: 56px;
+                    height: 100px;
                     padding: 10px 8px;
                     background:#F5F5F5;
                     .title{
